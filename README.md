@@ -1,4 +1,4 @@
-# Daimler manual PDF → structured JSON chunks (RAG)
+# Truck Manual RAG System 
 
 This folder contains a **structure-aware PDF parser + chunker** for truck maintenance manuals.
 It targets `Heavy-Duty Trucks Maintenance Manual_.pdf` and produces **chunked JSON** suitable for retrieval-augmented generation.
