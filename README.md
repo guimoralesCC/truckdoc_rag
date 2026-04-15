@@ -33,12 +33,6 @@ python parse_manual.py \
 
 ## Search
 
-BM25 (keyword search):
-
-```bash
-python bm25_search.py --chunks chunks.json --query "cab tilting FLA WARNING" --topk 5
-```
-
 Hybrid (BM25 + vector):
 
 ```bash
