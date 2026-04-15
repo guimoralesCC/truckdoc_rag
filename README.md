@@ -3,6 +3,11 @@
 This folder contains a **structure-aware PDF parser + chunker** for truck maintenance manuals.
 It targets `Heavy-Duty Trucks Maintenance Manual_.pdf` and produces **chunked JSON** suitable for retrieval-augmented generation.
 
+## Demo
+
+[![Demo](./Demo.gif)](./DemoVideo.mp4)
+
+
 ## What it does
 
 - Extracts text **page-by-page** (layout aware).
