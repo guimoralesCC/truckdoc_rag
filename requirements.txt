@@ -1,0 +1,14 @@
+pdfplumber>=0.11.4
+pydantic>=2.7.4
+tqdm>=4.66.4
+rank-bm25>=0.2.2
+sentence-transformers>=3.0.1
+faiss-cpu>=1.8.0
+pymupdf>=1.24.10
+requests>=2.32.3
+streamlit>=1.36.0
+
+# Optional OCR fallback (only used if installed)
+pytesseract>=0.3.10
+pdf2image>=1.17.0
+Pillow>=10.4.0
